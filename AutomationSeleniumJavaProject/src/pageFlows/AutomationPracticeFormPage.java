@@ -85,7 +85,7 @@ public class AutomationPracticeFormPage {
 			Thread.sleep(5000);//Static sleep
 
 			//Browse File
-			String filePath = "C:\\Users\\sanga\\OneDrive\\Documents\\Automation_Class\\Images\\profile.png";
+			String filePath = "C:\\Users\\Administrator\\Documents\\NOTICE.txt";
 			new KeyboardUtils().type(filePath);	
 			new KeyboardUtils().Key_Enter();
 
